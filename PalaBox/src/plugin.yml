@@ -1,0 +1,12 @@
+name: PalaBox
+author: LowTix_
+description: Plugin for my test week
+main: fr.lowtix.palabox.Main
+version: 1.0.1
+depend: [PermissionsEx]
+commands:
+  location:
+    description: Gestion des positions.
+  setrank:
+    description: Gestion des rangs.
+  spawnreg:
